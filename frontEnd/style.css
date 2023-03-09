@@ -1,0 +1,22 @@
+.navig {
+    background-color: black;
+    color: white;
+    height: 20vh;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    margin: 0%;
+}
+
+.midPage {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    margin: 1% 5%;
+    border: 2px solid black 
+}
